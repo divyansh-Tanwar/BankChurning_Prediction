@@ -226,35 +226,6 @@ __marimo__/
 # ANN / TensorFlow / Streamlit Project
 # ==========================================
 
-# TensorFlow / TensorBoard logs
-logs/
-tensorboard_logs/
-events.out.tfevents.*
-
-# Trained models
-*.h5
-*.keras
-*.hdf5
-
-# Saved encoders and scalers
-*.pkl
-*.pickle
-
-# Model checkpoints
-checkpoints/
-*.ckpt*
-
-# Dataset
-Dataset/
-*.csv
-
-# Jupyter generated files
-.ipynb_checkpoints/
-
-# Local IDE configuration
-.vscode/
-.idea/
-
 # Environment files
 .env.*
 !.env.example
